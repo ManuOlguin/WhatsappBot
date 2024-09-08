@@ -1,0 +1,1719 @@
+[
+  {
+    "ref": "85ebc6c3-5850-43f4-9afb-d26aaed9ab50",
+    "keyword": "5c2e6bf2feb775d1c980aa77454c002e",
+    "answer": "Nigga",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "bd65968bfa1ba28eaf3d3c84a6aeb298"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "0d98a488-5ed5-4a9c-83b6-130559366a6f",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "It's not gonna happen",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "a283a5d0f4a81cba6c75f5763f418b1f"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "27a4773b-9046-4b53-b424-cd2c32a8d8c0",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Let it go",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "d1cc8a84739f1440baea8f317bb981f3"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "3930208f-3e54-4b5f-9762-d1d6d8c0550c",
+    "keyword": null,
+    "answer": "Amigo que",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "8c3453e29c8f2be5bb445e55b54d23f3"
+  },
+  {
+    "ref": "3079dfcc-5e07-4db5-81b1-a9918f68f911",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "It's gotta be monday",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "e46a90dff1ebcdd2ff67805ea1ff515b"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "b65bb0b5-6d9f-4649-96d9-a628c2e46557",
+    "keyword": null,
+    "answer": "banco",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "83b7b79b4164c6cf0e026b949e568a88"
+  },
+  {
+    "ref": "9cf81bb6-a6a8-479b-a5d3-ffea6556202c",
+    "keyword": null,
+    "answer": "diablos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "7e0cd12ebefcd94765c341378c5a6383"
+  },
+  {
+    "ref": "9ba1dfb8-fcdc-4557-bbf7-c5864c86c34a",
+    "keyword": null,
+    "answer": "Nononono es absoluto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "4e82ecfb51b5582bff655ae142af006f"
+  },
+  {
+    "ref": "d12f4f70-6cca-4c0c-b929-8c8c490db683",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "a",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "b6932888ef14abcd12be40a8112fc5c7"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "a83a2237-8cd5-4aec-98b9-679fe63e94cf",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Onda si",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "41c593943938d615db56d3083c07fa88"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "10d0dfc4-85da-4b6c-893b-b31272071bb2",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "26b51605-88ef-41a3-a11c-97f886afc3bc",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "6d7a9694-e708-4ce1-93fa-eda8ca3d31f2",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "AJSHAHSHS",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "54ceb4e4fd313fca2ec4a6c49510efc8"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "69b61a5e-9309-42c2-8fc8-5aba2ef34431",
+    "keyword": null,
+    "answer": "Meu deus",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "d806db38978e033c490cae8a56acd667"
+  },
+  {
+    "ref": "21406f80-40df-40e4-8387-e2f0687caacf",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "sjafhsjf",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "e4d7e3b413095d6950f909db014e6340"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "491810f9-f562-4a8a-b49a-b8bac97753e5",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "niggA",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "d84a5b0d83a626edbc9ba56bba01f54b"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "fd5bbdcf-01b0-4893-84c6-6ef0124a3125",
+    "keyword": null,
+    "answer": "a",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "032a662ec351ef398e77d79f9bc08ddd"
+  },
+  {
+    "ref": "c48ffc3b-e1ae-44c8-a6ae-a2d66046feb8",
+    "keyword": null,
+    "answer": "Alguien haga algo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "6bddeab3384c058bc83fc545e5f9c216"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491159279866"
+  },
+  {
+    "ref": "e9f0d06c-392a-4a12-b3d8-b718fafaff3c",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Porque veo que es de afuera...",
+    "options": {},
+    "from": "5491159279866",
+    "refSerialize": "9ceff7a5f5349ff94ecbf5e0709338c7"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491159279866"
+  },
+  {
+    "ref": "06ae05b1-ece1-452b-adfe-fb76c07905fc",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Chiste",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "90af5de9df4bfe126462253fb2f2d6f0"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "daa3c6d5-e184-474e-bd9c-af788b21a684",
+    "keyword": null,
+    "answer": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "3256abc75aa8593637f49ab8fd45fa6e"
+  },
+  {
+    "ref": "48378b93-eeba-4c7b-b9db-12f21c3a302e",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Aja",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "460abeb8ac53d9d09f7d7b17911319c9"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "45761d4a-bc0c-4268-b1c4-8632a74a449e",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "ac4735e6-940d-41ab-b9db-ce1b46f26aeb",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Nigga",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "bd65968bfa1ba28eaf3d3c84a6aeb298"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "b3ffc3b2-952a-47a6-bba8-4d0f05345952",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Impresionante",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "7cefa910afb26c9e0d3b7450d4d850a1"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "8d425dfd-f2f1-4e04-b658-5c97ba828ed7",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Cómo hiciste",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "b1d3ad220e28c04fa2f52c99db4af7a5"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "79239b9c-ac90-4ac1-beb5-d394934a1ba7",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "4316aa4c-e20e-4f1d-9eb6-8ba12fd0ac80",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "I wanna know",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "baad8e242f2f87aec740c202d232b28f"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "85d923c3-f81f-4945-b736-5b12f7e634d4",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "JAHSAJAH",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "5c8d63c781da2f5fab75bc4f351de42d"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "68f046c8-b9c8-43eb-bbfb-42818f10b536",
+    "keyword": null,
+    "answer": "diablos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "7e0cd12ebefcd94765c341378c5a6383"
+  },
+  {
+    "ref": "0638a910-d636-4178-8ebb-e95b502615bc",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Omaga",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8852a1cd86fff891d1692edfefcf7e5a"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "02ae4692-d75f-4a28-8afe-61d375fd8eab",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Nigger",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "9c1052e094da5053d3bea50939e795c9"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "239410dc-3419-46c1-823d-de014099b2df",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": ".",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "e6875c9213d714f91461bee08f9864d5"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "eb7ff694-a705-49f3-b786-a76bdcce7aa1",
+    "keyword": null,
+    "answer": ">:(",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "fcc9c9e4dc07381b38f8c9fa632afe16"
+  },
+  {
+    "ref": "bbd74455-e200-4fe3-94c7-fd1cc408db35",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "AMIGOV",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "ca8e4296f2a4e7280abedd7b9103a809"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "7e95801c-6039-4796-b557-e5c19740d26d",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "PARA",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "db3d56c22bbefb6a4f44fa61ffcb8d44"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "54be86d9-00a4-4d83-8187-9e4815c2432a",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "NO C CON QUIEN ESROY HABLANDO",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "672f29e1676f7fac0032556342d3b7d2"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "7200395d-fad8-4626-953c-5914818e0480",
+    "keyword": null,
+    "answer": "Alguien haga algo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "6bddeab3384c058bc83fc545e5f9c216"
+  },
+  {
+    "ref": "c852c595-304c-4805-b624-592d65cc3438",
+    "keyword": null,
+    "answer": "Pucha",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "3ad010cdc7021add497d7eefee7465ad"
+  },
+  {
+    "ref": "0a7ada5d-723b-46ef-b2c4-2049808ba55e",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "c11fdd4c-85e2-465d-adc7-0a2c97c5c649",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "2ff79887-4df0-4a13-af48-eb8bbb22d18a",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "8c3ec143-ab8b-4d32-83e3-510c2bb16de1",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "9fcfe0b3-72bb-4b76-98d9-eb08f397641a",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "76a5b4e0-121c-4e0f-af9a-87e8e8888252",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "92216ec1-3740-409e-a3bf-eda495377c2b",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "6bd1a686-094a-4c08-b67e-da1cb644f861",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "47da9278-0393-49fb-8f12-845f565093ee",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "55064fa3-6764-4c57-b195-ec4e027f90ea",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "d1c10470-5d93-475e-8c47-6bbf6b494ffb",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "fea98c67-310d-4933-980c-129b7cb76f90",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "2e0266d5-ab7d-4d5a-bd1c-47819876ab01",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "No",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "7b830134-4233-47d8-9c29-8064f9e9070f",
+    "keyword": null,
+    "answer": "a",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "032a662ec351ef398e77d79f9bc08ddd"
+  },
+  {
+    "ref": "7e0bded3-117a-4689-ac0b-f13237f4610b",
+    "keyword": null,
+    "answer": "Pipipipi",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "d04f2a92403ac42ba50f0a68c277283b"
+  },
+  {
+    "ref": "a3c3e262-0160-4b35-ad98-bd157bc07422",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "_event_media__9b2477ff-53c4-4f9e-8e84-020b1c468325",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "83ad24b1d9180bd5ab3858957d7b3a63"
+  },
+  {
+    "ref": "1e70a6f8-b27f-43c9-8250-7edc63344d96",
+    "keyword": "83ad24b1d9180bd5ab3858957d7b3a63",
+    "answer": "_event_media__7b3c13c7-2a71-4e43-a53c-0cd7e3fbee5a",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "af887e73cc4115aac12db911837b976d"
+  },
+  {
+    "ref": "f1053313-1c49-4974-bca8-b151cb16de33",
+    "keyword": null,
+    "answer": "Nononono es absoluto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "4e82ecfb51b5582bff655ae142af006f"
+  },
+  {
+    "ref": "09fac399-7ddd-4b79-98ec-953d7b7ce0cb",
+    "keyword": null,
+    "answer": "Tengo una bomba",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "9747179721e3d583b0b8648db0b8170c"
+  },
+  {
+    "ref": "1a5ac035-256c-4e25-a89a-5baf217de006",
+    "keyword": "af887e73cc4115aac12db911837b976d",
+    "answer": "_event_media__d4a9041b-222e-42d6-8d79-4f0da08e9f9d",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "d11491ee1e3fb43720c9764384504d9c"
+  },
+  {
+    "ref": "aba63c15-9a4f-46b4-97cc-501ce304a1fa",
+    "keyword": "d11491ee1e3fb43720c9764384504d9c",
+    "answer": "_event_media__6921779e-f8ab-4243-a1fa-cd572e16bf86",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "310593dbe7ac7afa6084b24d19096b46"
+  },
+  {
+    "ref": "c318e39c-ed1c-4846-80d9-18878c0591f4",
+    "keyword": "310593dbe7ac7afa6084b24d19096b46",
+    "answer": "_event_media__e4fbf14e-6db3-4bb1-a097-b0c236732f0d",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "b60bf73cc6d559b27c3129c6e3e73164"
+  },
+  {
+    "ref": "c149d705-9a60-4835-9f72-d3e440dff0b6",
+    "keyword": null,
+    "answer": "Tengo una bomba",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "9747179721e3d583b0b8648db0b8170c"
+  },
+  {
+    "ref": "76ac559c-837f-4262-8ef6-c1dbea05607b",
+    "keyword": "b60bf73cc6d559b27c3129c6e3e73164",
+    "answer": "_event_media__5da6b144-fb46-465d-86c4-2a2f059df3a9",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "291417be0824a1b11f0469cb84fbebf0"
+  },
+  {
+    "ref": "24ec1c7e-0a72-482f-8087-e51829d74907",
+    "keyword": null,
+    "answer": "Bacno",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "926fa1bb2ce32aefcfc49848596b41cf"
+  },
+  {
+    "ref": "a12605f5-5fcf-491a-bbae-357e68617bd7",
+    "keyword": "291417be0824a1b11f0469cb84fbebf0",
+    "answer": "_event_media__6f035a2d-2e76-4f54-8dba-e09193201fff",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "2a41de74e2a31fd7ce74c75e3ad6bd19"
+  },
+  {
+    "ref": "73f4d921-bc84-4b19-9d7b-b9d33d1c8b0f",
+    "keyword": null,
+    "answer": "Es total y absoluto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "a33ff4e78fdf6d543265752daa4c5931"
+  },
+  {
+    "ref": "302f4db9-92c9-4469-89ac-9f550b1f8fb0",
+    "keyword": null,
+    "answer": "Tengo una bomba",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "9747179721e3d583b0b8648db0b8170c"
+  },
+  {
+    "ref": "939786a4-3b83-42fd-8e36-8a281d5dfbe8",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "1c7fab19-e181-47ff-b057-ae1f84ebd46a",
+    "keyword": null,
+    "answer": "banco",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "83b7b79b4164c6cf0e026b949e568a88"
+  },
+  {
+    "ref": "350503ae-949e-4be5-94f1-c06967dd4997",
+    "keyword": "2a41de74e2a31fd7ce74c75e3ad6bd19",
+    "answer": "_event_media__26e74525-964b-40ea-9c1d-816795459d8f",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "61cf8bee2c8181748095c2aabcc64181"
+  },
+  {
+    "ref": "49d77601-7bcc-4c3b-afa0-fd5889247036",
+    "keyword": "61cf8bee2c8181748095c2aabcc64181",
+    "answer": "_event_media__2650c644-3c84-4c7a-a2ad-3491c7bab274",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "d9fd7c0a1e7f339f6e25a7315a8d99ea"
+  },
+  {
+    "ref": "0b044202-586a-41cc-958b-74ecaf46165b",
+    "keyword": "d9fd7c0a1e7f339f6e25a7315a8d99ea",
+    "answer": "_event_media__983432bc-3016-4af4-8084-d77899b4569b",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "de53cbfaba11bab223bd856f0a5ff696"
+  },
+  {
+    "ref": "47cb20e9-74d9-4caf-9ea7-2cbb230762ca",
+    "keyword": "de53cbfaba11bab223bd856f0a5ff696",
+    "answer": "_event_media__15661e03-89b2-4725-a33c-09be9ddbc81e",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "5a5fdbd34e91bbfaf4270cf72dadf956"
+  },
+  {
+    "ref": "03c51083-c74e-4f1a-8c86-a3ac7511012a",
+    "keyword": "5a5fdbd34e91bbfaf4270cf72dadf956",
+    "answer": "_event_media__9b353538-dd29-4f5d-9fe4-44d2b52deb6e",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "4992691a71df3d5396a66273ce7d4fcc"
+  },
+  {
+    "ref": "0255e01d-5c1b-4626-b596-9a92f31a8cd6",
+    "keyword": "4992691a71df3d5396a66273ce7d4fcc",
+    "answer": "_event_media__566b0655-9a82-44da-b15f-c718e1dbd058",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "224dd1030a175038305301f722d64096"
+  },
+  {
+    "ref": "e489a5a7-5275-410e-ac81-5b4b4549bb27",
+    "keyword": "224dd1030a175038305301f722d64096",
+    "answer": "_event_media__317f6140-bcbd-4c8f-9579-9e4c78b2afdb",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "3958faebe5f7a599ddc6ec0d245580c4"
+  },
+  {
+    "ref": "80fa0b69-d651-4454-b04e-973f0db31cc3",
+    "keyword": null,
+    "answer": "Es total",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "7cd8f3d333ab3683fe3398803b963022"
+  },
+  {
+    "ref": "06d54db1-2fc5-49e2-94cd-374fb4fe4416",
+    "keyword": "3958faebe5f7a599ddc6ec0d245580c4",
+    "answer": "_event_media__7f77aad6-5265-498a-9158-1bffdaa24987",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "b10e69a6de7ab885c3970ea68a629e9a"
+  },
+  {
+    "ref": "99cfb2f3-4c2b-4e35-ba94-49c4427294d2",
+    "keyword": null,
+    "answer": "banco",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "83b7b79b4164c6cf0e026b949e568a88"
+  },
+  {
+    "ref": "16e9ba94-05e8-47e9-bddf-82ed928b06ff",
+    "keyword": "b10e69a6de7ab885c3970ea68a629e9a",
+    "answer": "_event_media__3b1577d3-5110-4083-9310-8c47ac546c80",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "32ecd9d838330aa73bfc3df6d7303461"
+  },
+  {
+    "ref": "61254c6c-7848-4598-9b2a-44b7ba252881",
+    "keyword": "32ecd9d838330aa73bfc3df6d7303461",
+    "answer": "_event_media__c9bf140f-c844-4740-b09e-8886971b8f4e",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "a7f0b376a5842b968fffdc3ec48ea827"
+  },
+  {
+    "ref": "7f84dc5f-915d-48eb-9cc4-d81b984520ee",
+    "keyword": null,
+    "answer": "banco",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "83b7b79b4164c6cf0e026b949e568a88"
+  },
+  {
+    "ref": "22652fc4-0df5-4b90-9473-5d686ef2cbbd",
+    "keyword": "a7f0b376a5842b968fffdc3ec48ea827",
+    "answer": "_event_media__bc11d669-80cc-4e65-812e-b0dc483d4528",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "edab1cd85eda1d3358a7f482d876c847"
+  },
+  {
+    "ref": "a8b9db4d-70ce-4302-9c83-0c6044d82fc3",
+    "keyword": "edab1cd85eda1d3358a7f482d876c847",
+    "answer": "_event_media__231e7bd0-05cb-4956-80b4-eb169e5e4647",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "1f8666d008b175384c01f73c69c0d72c"
+  },
+  {
+    "ref": "45162767-e9f9-40db-bb0f-d13f6a09a656",
+    "keyword": "1f8666d008b175384c01f73c69c0d72c",
+    "answer": "_event_media__34ed6330-99c5-4fff-ba09-50fe5d51ac88",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "7edfd3a6f77861c0c0d3fe9a59ab8610"
+  },
+  {
+    "ref": "c8444597-2155-4174-ad90-1fc029efaa3c",
+    "keyword": null,
+    "answer": "Es total",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "7cd8f3d333ab3683fe3398803b963022"
+  },
+  {
+    "ref": "7c705b48-ee72-45f1-9f89-54c1a2c8656d",
+    "keyword": null,
+    "answer": "Es total y absoluto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "a33ff4e78fdf6d543265752daa4c5931"
+  },
+  {
+    "ref": "866b4334-bf52-4c60-8305-8db7f6e10b02",
+    "keyword": null,
+    "answer": "Pipipipi",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "d04f2a92403ac42ba50f0a68c277283b"
+  },
+  {
+    "ref": "6a2d43fe-46dd-464b-b090-a9785b734b90",
+    "keyword": "7edfd3a6f77861c0c0d3fe9a59ab8610",
+    "answer": "Amigo estuve hablando con el Manu mogolico x todo el día",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "6b0e587279b54f4b21681d1f7dc6b831"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "838e4cb8-713e-462d-82a2-87611c54db2e",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "6924cc5f-0064-4894-8d0a-6dd851a2f5fc",
+    "keyword": null,
+    "answer": "Mandá la palabra \"chiste\" para recibir uno muy gracioso!!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "0a487dc5bc6234acc7a05a1b98856660"
+  },
+  {
+    "ref": "2be4c505-baa6-49e5-a6fc-45ac82016eb7",
+    "keyword": null,
+    "answer": "daaaa",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "50782e4b58469928711d6150a28c20a2"
+  },
+  {
+    "ref": "81fdbf4b-436a-4a87-852c-742799026c84",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Es impresionante",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "2bf4117d50d6b59344ff925897a3003e"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "d0255f58-060a-4ab9-bea5-e51841e592c9",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Me parecía gaga",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "3f18c5d49de12485171bdd7be03d36ea"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "399a2513-0d14-40d7-baad-7f119a5c99a1",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Demasiado haha",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "3711495b02ea442ee0c783b8bb42e04d"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "a759b8ab-4b6a-40f8-9ff3-90b2b17314d3",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "Gaga",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "0879a19a56d21986c6da23c59646429b"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "90811cc2-27ed-4f35-adf4-f4c80c70462e",
+    "keyword": null,
+    "answer": "Nononono es absoluto",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "4e82ecfb51b5582bff655ae142af006f"
+  },
+  {
+    "ref": "3cfd9cdf-6dde-4542-85cb-9b1a156dc0b7",
+    "keyword": null,
+    "answer": "daaaa",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "50782e4b58469928711d6150a28c20a2"
+  },
+  {
+    "ref": "6fc113e1-887a-4861-aea4-ffe3b74be487",
+    "keyword": null,
+    "answer": "banco",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "83b7b79b4164c6cf0e026b949e568a88"
+  },
+  {
+    "ref": "d8ae2230-b722-4f57-b43b-f27aef4d6352",
+    "keyword": null,
+    "answer": "Alguien haga algo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5491164056291",
+    "refSerialize": "6bddeab3384c058bc83fc545e5f9c216"
+  },
+  {
+    "ref": "fd7ebfc3-3c45-4de4-83e4-a2f7aa1370c5",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "N",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "7a05ccf0a760aa74fef9c8bb07bb7bb7"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "0c012668-00a2-455f-abce-b2b889eceb77",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "N",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "7a05ccf0a760aa74fef9c8bb07bb7bb7"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "1cfd0c8d-5c37-420e-9ec0-6bd70f965c4b",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "N",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "7a05ccf0a760aa74fef9c8bb07bb7bb7"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  },
+  {
+    "ref": "e89a7ca4-af43-4949-a182-fc83f86f7324",
+    "keyword": "46a0952c3809a868a8bdb61c4314b9a3",
+    "answer": "N",
+    "options": {},
+    "from": "5491164056291",
+    "refSerialize": "7a05ccf0a760aa74fef9c8bb07bb7bb7"
+  },
+  {
+    "ref": "ans_4faf369f-8b9c-4908-9517-f2079d8c16db",
+    "keyword": "key_d7fc5d98-ca11-4d45-8c21-f7d1a46b4121",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "46a0952c3809a868a8bdb61c4314b9a3",
+    "from": "5491164056291"
+  }
+]
